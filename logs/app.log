@@ -1,0 +1,81 @@
+{"level":"info","message":"Cliente iniciado correctamente","timestamp":"2024-08-29T15:45:59.903Z"}
+{"level":"info","message":"Iniciando proceso de envío de mensajes","timestamp":"2024-08-29T15:45:59.907Z"}
+{"level":"info","message":"Iniciando envío de lote diario. Clientes a procesar: 4","timestamp":"2024-08-29T15:45:59.963Z"}
+{"level":"info","message":"Alerta enviada al administrador: Iniciando envío de lote diario. Clientes a procesar: 4","timestamp":"2024-08-29T15:46:00.995Z"}
+{"level":"info","message":"Intentando enviar mensaje a 931941085@c.us","timestamp":"2024-08-29T15:46:00.996Z"}
+{"level":"info","message":"Mensaje enviado a 931941085","timestamp":"2024-08-29T15:46:01.908Z"}
+{"level":"info","message":"Mensaje enviado a 931941085","timestamp":"2024-08-29T15:46:01.909Z"}
+{"level":"info","message":"Intentando enviar mensaje a 918671801@c.us","timestamp":"2024-08-29T15:46:06.929Z"}
+{"level":"info","message":"Mensaje enviado a 918671801","timestamp":"2024-08-29T15:46:07.831Z"}
+{"level":"info","message":"Mensaje enviado a 918671801","timestamp":"2024-08-29T15:46:07.831Z"}
+{"level":"info","message":"Intentando enviar mensaje a 953059589@c.us","timestamp":"2024-08-29T15:46:12.839Z"}
+{"level":"info","message":"Mensaje enviado a 953059589","timestamp":"2024-08-29T15:46:13.735Z"}
+{"level":"info","message":"Mensaje enviado a 953059589","timestamp":"2024-08-29T15:46:13.735Z"}
+{"level":"info","message":"Intentando enviar mensaje a 999999999@c.us","timestamp":"2024-08-29T15:46:18.747Z"}
+{"level":"error","message":"Error al enviar mensaje a 999999999:","timestamp":"2024-08-29T15:46:19.114Z"}
+{"level":"info","message":"Estado actualizado a 'no_activo' para el número: 999999999","timestamp":"2024-08-29T15:46:19.120Z"}
+{"level":"error","message":"Error al enviar mensaje a 999999999:","timestamp":"2024-08-29T15:46:19.121Z"}
+{"level":"info","message":"Alerta enviada al administrador: Reporte final del lote:\n- Mensajes enviados: 3\n- Respuestas recibidas: 0","timestamp":"2024-08-29T15:46:24.856Z"}
+{"level":"info","message":"Lote diario completado","timestamp":"2024-08-29T15:46:24.857Z"}
+{"level":"info","message":"Cliente iniciado correctamente","timestamp":"2024-08-29T21:11:20.567Z"}
+{"level":"info","message":"Iniciando proceso de envío de mensajes","timestamp":"2024-08-29T21:11:20.571Z"}
+{"level":"info","message":"Iniciando envío de lote diario. Clientes a procesar: 5","timestamp":"2024-08-29T21:11:20.690Z"}
+{"level":"info","message":"Alerta enviada al administrador: Iniciando envío de lote diario. Clientes a procesar: 5","timestamp":"2024-08-29T21:11:21.814Z"}
+{"level":"info","message":"Intentando enviar mensaje a 931941085@c.us","timestamp":"2024-08-29T21:11:21.815Z"}
+{"level":"info","message":"Mensaje enviado a 931941085","timestamp":"2024-08-29T21:11:22.747Z"}
+{"level":"info","message":"Mensaje enviado a 931941085","timestamp":"2024-08-29T21:11:22.748Z"}
+{"level":"info","message":"Intentando enviar mensaje a 918671801@c.us","timestamp":"2024-08-29T21:11:27.767Z"}
+{"level":"info","message":"Mensaje enviado a 918671801","timestamp":"2024-08-29T21:11:28.648Z"}
+{"level":"info","message":"Mensaje enviado a 918671801","timestamp":"2024-08-29T21:11:28.649Z"}
+{"level":"info","message":"Intentando enviar mensaje a 953059589@c.us","timestamp":"2024-08-29T21:11:33.667Z"}
+{"level":"info","message":"Mensaje enviado a 953059589","timestamp":"2024-08-29T21:11:34.531Z"}
+{"level":"info","message":"Mensaje enviado a 953059589","timestamp":"2024-08-29T21:11:34.531Z"}
+{"level":"info","message":"Intentando enviar mensaje a 999999999@c.us","timestamp":"2024-08-29T21:11:39.546Z"}
+{"level":"error","message":"Error al enviar mensaje a 999999999:","timestamp":"2024-08-29T21:11:40.399Z"}
+{"level":"info","message":"Estado actualizado a 'no_activo' para el número: 999999999","timestamp":"2024-08-29T21:11:40.403Z"}
+{"level":"error","message":"Error al enviar mensaje a 999999999:","timestamp":"2024-08-29T21:11:40.404Z"}
+{"level":"info","message":"Intentando enviar mensaje a 971155938@c.us","timestamp":"2024-08-29T21:11:45.405Z"}
+{"level":"info","message":"Mensaje enviado a 971155938","timestamp":"2024-08-29T21:11:46.300Z"}
+{"level":"info","message":"Mensaje enviado a 971155938","timestamp":"2024-08-29T21:11:46.301Z"}
+{"level":"info","message":"Alerta enviada al administrador: Reporte final del lote:\n- Mensajes enviados: 4\n- Respuestas recibidas: 0","timestamp":"2024-08-29T21:11:51.998Z"}
+{"level":"info","message":"Lote diario completado","timestamp":"2024-08-29T21:11:51.998Z"}
+{"level":"info","message":"Cliente iniciado correctamente","timestamp":"2024-08-30T00:29:26.595Z"}
+{"level":"info","message":"Iniciando proceso de envío de mensajes","timestamp":"2024-08-30T00:29:26.598Z"}
+{"level":"info","message":"Iniciando envío de lote diario. Clientes a procesar: 0","timestamp":"2024-08-30T00:29:26.936Z"}
+{"level":"info","message":"Alerta enviada al administrador: Iniciando envío de lote diario. Clientes a procesar: 0","timestamp":"2024-08-30T00:29:27.635Z"}
+{"level":"info","message":"No se encontraron clientes para procesar","timestamp":"2024-08-30T00:29:27.636Z"}
+{"level":"info","message":"Alerta enviada al administrador: No se encontraron clientes para procesar","timestamp":"2024-08-30T00:29:28.252Z"}
+{"level":"info","message":"Cliente iniciado correctamente","timestamp":"2024-08-30T00:32:35.175Z"}
+{"level":"info","message":"Iniciando proceso de envío de mensajes","timestamp":"2024-08-30T00:32:35.177Z"}
+{"level":"info","message":"Iniciando envío de lote diario. Clientes a procesar: 5","timestamp":"2024-08-30T00:32:35.197Z"}
+{"level":"info","message":"Alerta enviada al administrador: Iniciando envío de lote diario. Clientes a procesar: 5","timestamp":"2024-08-30T00:32:35.983Z"}
+{"level":"info","message":"Intentando enviar mensaje a 931941085@c.us","timestamp":"2024-08-30T00:32:35.986Z"}
+{"level":"info","message":"Mensaje enviado a 931941085","timestamp":"2024-08-30T00:32:36.691Z"}
+{"level":"info","message":"Mensaje enviado a 931941085","timestamp":"2024-08-30T00:32:36.692Z"}
+{"level":"info","message":"Intentando enviar mensaje a 918671801@c.us","timestamp":"2024-08-30T00:32:41.719Z"}
+{"level":"info","message":"Mensaje enviado a 918671801","timestamp":"2024-08-30T00:32:42.492Z"}
+{"level":"info","message":"Mensaje enviado a 918671801","timestamp":"2024-08-30T00:32:42.492Z"}
+{"level":"info","message":"Intentando enviar mensaje a 953059589@c.us","timestamp":"2024-08-30T00:32:47.502Z"}
+{"level":"info","message":"Mensaje enviado a 953059589","timestamp":"2024-08-30T00:32:48.242Z"}
+{"level":"info","message":"Mensaje enviado a 953059589","timestamp":"2024-08-30T00:32:48.243Z"}
+{"level":"info","message":"Intentando enviar mensaje a 999999999@c.us","timestamp":"2024-08-30T00:32:53.263Z"}
+{"level":"error","message":"Error al enviar mensaje a 999999999:","timestamp":"2024-08-30T00:32:53.617Z"}
+{"level":"info","message":"Estado actualizado a 'no_activo' para el número: 999999999","timestamp":"2024-08-30T00:32:53.620Z"}
+{"level":"error","message":"Error al enviar mensaje a 999999999:","timestamp":"2024-08-30T00:32:53.621Z"}
+{"level":"info","message":"Intentando enviar mensaje a 930868738@c.us","timestamp":"2024-08-30T00:32:58.627Z"}
+{"level":"info","message":"Mensaje enviado a 930868738","timestamp":"2024-08-30T00:32:59.260Z"}
+{"level":"info","message":"Mensaje enviado a 930868738","timestamp":"2024-08-30T00:32:59.261Z"}
+{"level":"info","message":"Alerta enviada al administrador: Reporte final del lote:\n- Mensajes enviados: 4\n- Respuestas recibidas: 0","timestamp":"2024-08-30T00:33:04.881Z"}
+{"level":"info","message":"Lote diario completado","timestamp":"2024-08-30T00:33:04.882Z"}
+{"level":"info","message":"Número entrante normalizado: 931941085","timestamp":"2024-08-30T00:33:06.162Z"}
+{"level":"info","message":"No se encontró cliente para el número: 931941085","timestamp":"2024-08-30T00:33:06.197Z"}
+{"level":"info","message":"Número entrante normalizado: 931941085","timestamp":"2024-08-30T00:36:50.045Z"}
+{"level":"info","message":"No se encontró cliente para el número: 931941085","timestamp":"2024-08-30T00:36:50.050Z"}
+{"level":"info","message":"Número entrante normalizado: 931941085","timestamp":"2024-08-30T00:36:53.344Z"}
+{"level":"info","message":"No se encontró cliente para el número: 931941085","timestamp":"2024-08-30T00:36:53.354Z"}
+{"level":"info","message":"Número entrante normalizado: 931941085","timestamp":"2024-08-30T00:36:56.313Z"}
+{"level":"info","message":"No se encontró cliente para el número: 931941085","timestamp":"2024-08-30T00:36:56.321Z"}
+{"level":"info","message":"Número entrante normalizado: 931941085","timestamp":"2024-08-30T00:36:57.602Z"}
+{"level":"info","message":"No se encontró cliente para el número: 931941085","timestamp":"2024-08-30T00:36:57.609Z"}
+{"level":"info","message":"Número entrante normalizado: 931941085","timestamp":"2024-08-30T00:37:00.893Z"}
+{"level":"info","message":"No se encontró cliente para el número: 931941085","timestamp":"2024-08-30T00:37:00.902Z"}
